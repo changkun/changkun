@@ -1,6 +1,11 @@
-- 🔭 Pursuing a Ph.D. @LMU Munich
-- 🌱 Open source fancier
-- 🏠 Homepage at [changkun.de](https://changkun.de)
+<img src="https://github-readme-stats.vercel.app/api?username=changkun&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+- 🎓  Pursuing a Ph.D. @LMU Munich.
+- 🔭  Research in computer graphics, mathematics, machine learning, and system programming.
+- 🌱  Open source fancier in Go, C++, JavaScript, Python, etc.
+- 🏠  Homepage at [changkun.de](https://changkun.de).
+- 💬  My [resume](https://changkun.de/s/resume) and [talks](https://changkun.de/s/talks), and [YouTube](https://changkun.de/s/youtube) channel.
+- ⚖️  I founded The [golang.design](https://golang.design) Initiaitive.
 
 <!--
 **changkun/changkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
