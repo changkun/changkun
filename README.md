@@ -13,7 +13,7 @@ Selected services that I wrote and use under [changkun.de](https://changkun.de) 
 
 - [changkun/occamy](https://github.com/changkun/occamy): 🖥️ a modern remote desktop proxy
 - [changkun/midgard](https://github.com/changkun/midgard): ⛰️ a universal clipboard service
-- [changkun/redir](https://github.com/changkun/redir): 🧭 URL shortener and request redictor services
+- [changkun/redir](https://github.com/changkun/redir): 🧭 Full-featured URL shortener 
 - [changkun/urlstat](https://github.com/changkun/urlstat): 📈 URL access statistics service
 - [changkun/upbot](https://github.com/changkun/upbot): 🤖 an uptime monitoring service
 - [golang-design/code2img](https://github.com/golang-design/code2img) 🖨️ A carbon-now wrapper that supports iOS Shortcut
