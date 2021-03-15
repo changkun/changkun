@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=changkun&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🎓  Pursuing a Ph.D. @LMU Munich.
-- 🔭  Research combines computer graphics, HCI, machine learning, and system programming.
+- 🔭  Research combines HCI, computer graphics, machine learning, and system programming.
 - 🌱  Open source fancier in Go, C++, JavaScript, Python, etc.
 - ⚖️  Founded the [golang.design](https://golang.design) initiaitive, and organize it in spare time
 - 💬  My [resume](https://changkun.de/s/resume) and [talks](https://changkun.de/s/talks), and [YouTube](https://changkun.de/s/youtube) channel.
