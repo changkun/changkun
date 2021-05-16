@@ -21,7 +21,7 @@ Selected services that I wrote and use under [changkun.de](https://changkun.de) 
 - [changkun/main](https://github.com/changkun/main): 🏠 The entrance of changkun.de
 - [changkun/proxy](https://github.com/changkun/proxy): ⚙️ reverse proxy configurations for changkun.de
 
-Selected writings that contain my thouhts and posts:
+Selected writings that contain my thoughts and posts:
 
 - [changkun/blog](https://github.com/changkun/blog): ✍️ Changkun's Blog
 - [golang-design/history](https://github.com/golang-design/history): 📝 Go: A Documentary
