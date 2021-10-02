@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=changkun&show_icons=true&theme=dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=changkun&show_icons=true&theme=city_lights" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🎓  Pursuing a Ph.D. @LMU Munich.
 - 🔭  Research combines HCI, computer graphics, machine learning, and system programming.
