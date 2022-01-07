@@ -3,7 +3,7 @@
 - 🎓  Pursuing a Ph.D. @LMU Munich.
 - 🔭  Research combines HCI, computer graphics, machine learning, and system programming.
 - 🌱  Open source fancier in Go, C++, JavaScript, Python, etc.
-- ⚖️  Found the [golang.design](https://golang.design) initiaitive, and organize it in spare time
+- ⚖️  Created the [golang.design](https://golang.design) initiaitive, and organize it in spare time
 - 💬  My [resume](https://changkun.de/s/resume) and [talks](https://changkun.de/s/talks), and [YouTube](https://changkun.de/s/youtube) channel.
 - 🏠  Homepage at [changkun.de](https://changkun.de).
 
