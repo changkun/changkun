@@ -3,7 +3,7 @@
 - 🎓  Pursuing a Ph.D. @LMU Munich.
 - 🔭  Research combines HCI, computer graphics, machine learning, and system programming.
 - 🌱  Open source fancier in Go, C++, JavaScript, Python, etc.
-- ⚖️  Created the [golang.design](https://golang.design) initiaitive, and organize it in spare time
+- ⚖️  Creator of the [golang.design](https://golang.design) initiaitive, organize it in spare time
 - 💬  My [resume](https://changkun.de/s/resume) and [talks](https://changkun.de/s/talks), and [YouTube](https://changkun.de/s/youtube) channel.
 - 🏠  Homepage at [changkun.de](https://changkun.de).
 
@@ -49,18 +49,3 @@ Selected packages/tools that I wrote for general purpose:
 - [changkun/bo](https://github.com/changkun/bo): 🔍 Bayesian optimization
 - [changkun/sched](https://github.com/changkun/sched): ⏳ High performance reliable task scheduling package
 - [changkun/gomat](https://github.com/changkun/gomat): 💵 Cache-aware lock-free tiling optimization matrix package
-
-<!--
-**changkun/changkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
