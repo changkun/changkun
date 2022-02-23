@@ -19,9 +19,7 @@ Selected services that I wrote and use under [changkun.de](https://changkun.de) 
 - [changkun/upbot](https://github.com/changkun/upbot): 🤖 Uptime monitoring service
 - [golang-design/code2img](https://github.com/golang-design/code2img) 🖨️ A carbon-now API wrapper and iOS Shortcut
 - [golang-design/ssaplayground](https://github.com/golang-design/ssaplayground): 🃏 The Go SSA Playground: Exploring SSA IR
-- [changkun/main](https://github.com/changkun/main): 🏠 The entrance of changkun.de
 - [changkun/web](https://github.com/changkun/web): ⚙️ web services in changkun.de, golang.design, etc.
-- [changkun/office](https://github.com/changkun/office): 🏢 Is Changkun in the Office?
 
 
 Selected writings that contain my thouhts and posts:
