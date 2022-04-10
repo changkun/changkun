@@ -11,7 +11,7 @@
 
 Selected services that I wrote and use under [changkun.de](https://changkun.de) and [golang.design](https://golang.design):
 
-- [changkun/polyred](https://github.com/changkun/polyred): 📺 3D graphics facilities
+- [polyred/polyred](https://github.com/polyred/polyred): 📺 3D graphics in Go
 - [changkun/occamy](https://github.com/changkun/occamy): 🖥️ Modern remote desktop proxy
 - [changkun/midgard](https://github.com/changkun/midgard): ⛰️ Universal clipboard sharing service
 - [changkun/redir](https://github.com/changkun/redir): 🧭 Full-featured URL shortener 
