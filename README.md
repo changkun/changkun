@@ -4,7 +4,7 @@
 - 🔭  Research combines HCI, computer graphics, machine learning, and system programming.
 - 🌱  Open source fancier in Go, C++, JavaScript, Python, etc.
 - ⚖️  Creator of the [golang.design](https://golang.design) initiaitive, organize it in spare time
-- 💬  My [resume](https://changkun.de/s/resume) and [talks](https://changkun.de/s/talks), and [YouTube](https://changkun.de/s/youtube) channel.
+- 💬  My [C.V.](https://changkun.de/s/cv) and [research archive](https://changkun.de/s/research), and [YouTube](https://changkun.de/s/youtube) channel.
 - 🏠  Homepage at [changkun.de](https://changkun.de).
 
 <img src="https://changkun.de/urlstat?mode=github&repo=changkun/changkun" align="right" style="margin: 5px; margin-bottom: 20px;" />
