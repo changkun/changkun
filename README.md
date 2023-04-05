@@ -1,4 +1,4 @@
-### Changkun Ou, Ph. D.
+### Changkun Ou, Ph.D.
 
 Trained as a computer scientist. I often consider myself an engineer who constantly identifies design tradeoffs and makes strategic decisions. My core interests are not only in the scope of designing a rational program but more focuses on the interaction between human users and computers.
 
