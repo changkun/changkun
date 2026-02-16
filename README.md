@@ -7,9 +7,9 @@ Trained as a computer scientist, I see myself as an engineer who identifies desi
 - 🎓  I hold a Ph.D. (Dr. rer. nat.) in computer science from LMU Munich, with a human-computer interaction major. Currently, I work as a Staff Engineer @Sixt SE and an External Lecturer @LMU Munich.
 - 🔭  My research focuses on human-AI interaction — at the intersection of human-computer interaction, machine learning, cognitive and social psychology, computer graphics, and system programming.
 - 🌱  I love open source and speak Go, C++, JavaScript/TypeScript, Python, etc.
-- 📚 I author [software projects](softwares.md), [publications](https://changkun.de/research), [YouTube videos](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w), and a [blog](https://changkun.de/blog).
-- ⚖️   I founded the [golang.design](https://golang.design) initiative and maintain it in my spare time.
-- 🏠  Find more on my [homepage](https://changkun.de), [CV](https://changkun.de/s/cv), and [research](https://changkun.de/s/research) channels.
-- 💬  Talk to me: [Email](mailto:contact@changkun.de) | [Twitter](https://twitter.com/ouchangkun) | [LinkedIn](https://www.linkedin.com/in/changkun/)
+- 📚 I author [💻 software projects](softwares.md), [📄 publications](https://changkun.de/research), [🎬 YouTube videos](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w), and a [✍️ blog](https://changkun.de/blog).
+- ⚖️   I founded the [🐹 golang.design](https://golang.design) initiative and maintain it in my spare time.
+- 🏠  Find more on my [🌐 homepage](https://changkun.de), [📋 CV](https://changkun.de/s/cv), and [🔬 research](https://changkun.de/s/research) channels.
+- 💬  Talk to me: [📧 Email](mailto:contact@changkun.de) | [🐦 Twitter](https://twitter.com/ouchangkun) | [🔗 LinkedIn](https://www.linkedin.com/in/changkun/)
 
 <img src="https://changkun.de/urlstat?mode=github&repo=changkun/changkun" align="right" style="margin: 5px; margin-bottom: 20px;" />
