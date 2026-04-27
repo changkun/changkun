@@ -1,5 +1,8 @@
 Selected services that I wrote and use under [changkun.de](https://changkun.de) and [golang.design](https://golang.design):
 
+- [latere.ai](https://latere.ai): 🧭 Latere, keeping human intelligence in the loop of autonomous engineering
+- [changkun/wallfacer](https://github.com/changkun/wallfacer): 🤖 Autonomous engineering platform with chat, spec, task, and code modes
+- [cella.latere.ai](https://cella.latere.ai): 📦 Durable disposable cloud runtime for code and agents
 - [polyred/polyred](https://github.com/polyred/polyred): 📺 3D graphics in Go
 - [changkun/occamy](https://github.com/changkun/occamy): 🖥️ Modern remote desktop proxy
 - [changkun/midgard](https://github.com/changkun/midgard): ⛰️ Universal clipboard sharing service
