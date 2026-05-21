@@ -4,9 +4,9 @@ Trained as a computer scientist, I see myself as an engineer who identifies desi
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=changkun&show_icons=true&theme=city_lights" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
-- 🎓  I hold a Ph.D. (Dr. rer. nat.) in computer science from LMU Munich, with a human-computer interaction major. Currently, I work as a Staff Engineer @Sixt SE and an External Lecturer @LMU Munich.
+- 🎓  I hold a Ph.D. (Dr. rer. nat.) in computer science from LMU Munich, with a human-computer interaction major. Currently, I work as a Staff Engineer @Sixt SE, build [Latere AI](https://latere.ai), and teach as an External Lecturer @LMU Munich.
 - 🔭  My research focuses on human-AI interaction, at the intersection of human-computer interaction, machine learning, cognitive and social psychology, computer graphics, and system programming.
-- 🚀  I'm building [Latere](https://latere.ai), keeping human intelligence in the loop of autonomous engineering. Our products are [Wallfacer](https://github.com/changkun/wallfacer), an open-source autonomous engineering platform that spans chat, specs, tasks, and code, and [Cella](https://cella.latere.ai), durable disposable cloud runtime for code and agents.
+- 🚀  I founded [Latere AI](https://latere.ai), a product family for autonomous engineering and AI deployment: [Wallfacer](https://github.com/changkun/wallfacer), [Cella](https://cella.latere.ai), Lux, Auth, Latere CLI, and Topos.
 - 🌱  I love open source and speak Go, C++, JavaScript/TypeScript, Python, etc.
 - 📚 I author [💻 software projects](softwares.md), [📄 publications](https://changkun.de/research), [🎬 YouTube videos](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w), and a [✍️ blog](https://changkun.de/blog).
 - ⚖️   I founded the [🐹 golang.design](https://golang.design) initiative and maintain it in my spare time.

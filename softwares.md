@@ -1,8 +1,12 @@
 Selected services that I wrote and use under [changkun.de](https://changkun.de) and [golang.design](https://golang.design):
 
-- [latere.ai](https://latere.ai): 🧭 Latere, keeping human intelligence in the loop of autonomous engineering
+- [latere.ai](https://latere.ai): 🧭 Latere AI product family for autonomous engineering and AI deployment
 - [changkun/wallfacer](https://github.com/changkun/wallfacer): 🤖 Autonomous engineering platform with chat, spec, task, and code modes
 - [cella.latere.ai](https://cella.latere.ai): 📦 Durable disposable cloud runtime for code and agents
+- Lux: LLM gateway for provider-flexible model routing, usage tracking, and governance
+- Auth: OIDC/RBAC identity and delegation service for agent workflows
+- Latere CLI: Command-line interface for Latere AI workflows
+- Topos: Managed agent workspace for isolated execution and oversight
 - [polyred/polyred](https://github.com/polyred/polyred): 📺 3D graphics in Go
 - [changkun/occamy](https://github.com/changkun/occamy): 🖥️ Modern remote desktop proxy
 - [changkun/midgard](https://github.com/changkun/midgard): ⛰️ Universal clipboard sharing service
