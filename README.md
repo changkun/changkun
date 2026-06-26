@@ -6,7 +6,7 @@ Trained as a computer scientist, I see myself as an engineer who identifies desi
 
 - 🎓  I hold a Ph.D. (Dr. rer. nat.) in computer science from LMU Munich, with a human-computer interaction major. Currently, I work as a Staff Engineer @Sixt SE, build [Latere AI](https://latere.ai), and teach as an External Lecturer @LMU Munich.
 - 🔭  My research focuses on human-AI interaction, at the intersection of human-computer interaction, machine learning, cognitive and social psychology, computer graphics, and system programming.
-- 🚀  I founded [Latere AI](https://latere.ai), a product family for autonomous engineering and AI deployment: [Wallfacer](https://github.com/changkun/wallfacer), [Cella](https://cella.latere.ai), Lux, Auth, Latere CLI, and Topos.
+- 🚀  I founded [Latere AI](https://latere.ai), a product family that lets software build and operate itself: autonomous engineering agents and the infrastructure to run them, including [Wallfacer](https://github.com/changkun/wallfacer), [Cella](https://cella.latere.ai), Lux, Auth, Latere CLI, and Topos.
 - 🌱  I love open source and speak Go, C++, JavaScript/TypeScript, Python, etc.
 - 📚 I author [💻 software projects](softwares.md), [📄 publications](https://changkun.de/research), [🎬 YouTube videos](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w), and a [✍️ blog](https://changkun.de/blog).
 - 📖 I write books: [An Unverifiable World 在无法验证的世界里](https://changkun.de/unverifiable-world), [AI as an Infrastructure, From Systems to Agents AI 基建: 从系统到智能体](https://aaai.latere.ai/), [Go: Under the Hood Go 语言原本](https://golang.design/under-the-hood), and [Modern C++ Tutorial 现代 C++ 教程](https://changkun.de/modern-cpp/).
