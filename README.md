@@ -12,6 +12,6 @@ Trained as a computer scientist, I see myself as an engineer who identifies desi
 - 📖 I write books: [An Unverifiable World 在无法验证的世界里](https://changkun.de/unverifiable-world), [AI as an Infrastructure, From Systems to Agents AI 基建: 从系统到智能体](https://aaai.latere.ai/), [Go: Under the Hood Go 语言原本](https://golang.design/under-the-hood), and [Modern C++ Tutorial 现代 C++ 教程](https://changkun.de/modern-cpp/).
 - ⚖️   I founded the [🐹 golang.design](https://golang.design) initiative and maintain it in my spare time.
 - 🏠  Find more on my [🌐 homepage](https://changkun.de), [📋 CV](https://changkun.de/s/cv), and [🔬 research](https://changkun.de/s/research) channels.
-- 💬  Talk to me: [📧 Email](mailto:contact@changkun.de) | [🐦 Twitter](https://twitter.com/ouchangkun) | [🔗 LinkedIn](https://www.linkedin.com/in/changkun/)
+- 💬  Talk to me: [📧 Email](mailto:contact@changkun.de) | [𝕏 X](https://x.com/changkun) | [🔗 LinkedIn](https://www.linkedin.com/in/changkun/)
 
 <img src="https://changkun.de/urlstat?mode=github&repo=changkun/changkun" align="right" style="margin: 5px; margin-bottom: 20px;" />
