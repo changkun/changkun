@@ -1,12 +1,15 @@
 Selected services that I wrote and use under [changkun.de](https://changkun.de) and [golang.design](https://golang.design):
 
-- [latere.ai](https://latere.ai): 🧭 Latere AI product family for autonomous engineering and AI deployment
+- [latere.ai](https://latere.ai): 🧭 Latere AI, applications and platform services for autonomous agents
 - [changkun/wallfacer](https://github.com/changkun/wallfacer): 🤖 Autonomous engineering platform with chat, spec, task, and code modes
-- [cella.latere.ai](https://cella.latere.ai): 📦 Durable disposable cloud runtime for code and agents
-- Lux: LLM gateway for provider-flexible model routing, usage tracking, and governance
-- Auth: OIDC/RBAC identity and delegation service for agent workflows
-- Latere CLI: Command-line interface for Latere AI workflows
-- Topos: Managed agent workspace for isolated execution and oversight
+- [latere-ai/topos](https://github.com/latere-ai/topos): 🕸️ Embeddable Go runtime for multi-agent systems
+- [latere-ai/lux](https://github.com/latere-ai/lux): 💡 Open source LLM gateway for providers, models, keys, and budgets
+- [latere-ai/cella](https://github.com/latere-ai/cella): 📦 Declarative sandboxes for agents and workloads
+- [latere-ai/origo](https://github.com/latere-ai/origo): 🌱 Git hosting as an infrastructure component
+- [latere-ai/arca](https://github.com/latere-ai/arca): 🗄️ Durable storage for people, agents, and sandboxes
+- [latere-ai/fornax](https://github.com/latere-ai/fornax): 🔥 Run open-weight models on GPUs you control
+- [latere-ai/forma](https://github.com/latere-ai/forma): 🧮 Pure Go LLM inference framework
+- [latere-ai/latere-cli](https://github.com/latere-ai/latere-cli): ⌨️ A single binary for the Latere product family
 - [polyred/polyred](https://github.com/polyred/polyred): 📺 3D graphics in Go
 - [changkun/occamy](https://github.com/changkun/occamy): 🖥️ Modern remote desktop proxy
 - [changkun/midgard](https://github.com/changkun/midgard): ⛰️ Universal clipboard sharing service
