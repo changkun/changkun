@@ -9,7 +9,7 @@ Trained as a computer scientist, I see myself as an engineer who identifies desi
 - 🚀  I founded [Latere AI](https://latere.ai), a product family that lets software build and operate itself: autonomous engineering agents and the infrastructure to run them, including [Wallfacer](https://github.com/changkun/wallfacer), [Cella](https://cella.latere.ai), Lux, Auth, Latere CLI, and Topos.
 - 🌱  I love open source and speak Go, C++, JavaScript/TypeScript, Python, etc.
 - 📚 I author [💻 software projects](softwares.md), [📄 publications](https://changkun.de/research), [🎬 YouTube videos](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w), and a [✍️ blog](https://changkun.de/blog).
-- 📖 I write books: [An Unverifiable World 在无法验证的世界里](https://changkun.de/unverifiable-world), [AI as an Infrastructure, From Systems to Agents AI 基建: 从系统到智能体](https://aaai.latere.ai/), [Go: Under the Hood Go 语言原本](https://golang.design/under-the-hood), and [Modern C++ Tutorial 现代 C++ 教程](https://changkun.de/modern-cpp/).
+- 📖 I write books: [An Unverifiable World](https://changkun.de/unverifiable-world/en/), [AI as an Infrastructure: From Systems to Agents](https://aaai.latere.ai/en/), [Go: Under the Hood](https://golang.design/under-the-hood), and [Modern C++ Tutorial](https://changkun.de/modern-cpp/).
 - ⚖️   I founded the [🐹 golang.design](https://golang.design) initiative and maintain it in my spare time.
 - 🏠  Find more on my [🌐 homepage](https://changkun.de), [📋 CV](https://changkun.de/s/cv), and [🔬 research](https://changkun.de/s/research) channels.
 - 💬  Talk to me: [📧 Email](mailto:contact@changkun.de) | [𝕏 X](https://x.com/changkun) | [🔗 LinkedIn](https://www.linkedin.com/in/changkun/)
